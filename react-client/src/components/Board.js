@@ -10,6 +10,7 @@ class Board extends React.Component {
   }
 
   componentDidMount(){
+    console.log('componentDidMount')
     let height = $(document).height();
     let width = $(document).width();
 

@@ -23,7 +23,6 @@ server.listen(3000, function() {
 
 
 
-
 /* Socket.IO server set up. */
 
 //Express and socket.io can work together to serve the socket.io client files for you.
